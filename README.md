@@ -1,1 +1,1 @@
-Kitsune Mask Magisk Delta by HuskyDG
+Original Kitsune Mask Magisk Delta by HuskyDG
