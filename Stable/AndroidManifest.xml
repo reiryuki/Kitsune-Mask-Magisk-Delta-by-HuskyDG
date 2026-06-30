@@ -2,7 +2,7 @@
 <manifest
 	xmlns:android="http://schemas.android.com/apk/res/android"
 	android:versionCode="26400"
-	android:versionName="26.4-kitsune"
+	android:versionName="26.4_0.1_RM-kitsune"
 	android:compileSdkVersion="34"
 	android:compileSdkVersionCodename="14"
 	package="io.github.huskydg.magisk"
