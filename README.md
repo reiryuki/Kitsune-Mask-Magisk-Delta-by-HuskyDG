@@ -12,9 +12,12 @@
 ## Download Links
 - I implemented a small change in version 0.1_RM which is updated the libmagiskpolicy.so from Magisk (stable) 30.7 (30700) as a fix for selinux denials issues in recent ROMs.
 - If you previously installed the original version of the apk, you may need to uninstall it first to install the RM version of the apk because it has different apk signature.
-- R6687BB53-0.1_RM: https://devuploads.com/uxmxa0p5u6zn
-- 26.4-0.1_RM: https://devuploads.com/abyzsk16gont
-- Kitsune Mask Module Template Example: https://devuploads.com/83vffptnmlp4
+- R6687BB53-0.1_RM: https://bicolink.com/a2T
+- 26.4-0.1_RM: https://bicolink.com/8A
+- Kitsune Mask Module Template Example: https://bicolink.com/9vf3X1r6
+
+## Download Tutorial
+https://t.me/ryukinotes/97
 
 ## Known Issue
 While pressing "Reboot to Recovery" it looks like it says "Factory Reset" but don't worry it's nothing.
