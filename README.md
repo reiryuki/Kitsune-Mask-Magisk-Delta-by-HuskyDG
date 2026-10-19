@@ -14,14 +14,12 @@
 
 Kitsune Mask Module Template Example: https://move2link.co/f96481c
 
-v0.2_RM
-Debug: https://move2link.co/350181b
-Stable: https://move2link.co/f992185
+v0.2_RM Debug: https://move2link.co/350181b
+v0.2_RM Stable: https://move2link.co/f992185
 - Update libmagiskpolicy.so from Magisk (debug) 31.0 (31000)
 
-v0.1_RM
-Debug: https://move2link.co/57de419
-Stable: https://move2link.co/390f1ea
+v0.1_RM Debug: https://move2link.co/57de419
+v0.1_RM Stable: https://move2link.co/390f1ea
 - Update libmagiskpolicy.so from Magisk (stable) 30.7 (30700)
 - If you previously installed the original version of the apk, you may need to uninstall it first to install the RM version of the apk because it has different apk signature.
 
